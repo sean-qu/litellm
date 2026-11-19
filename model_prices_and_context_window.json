@@ -81447,5 +81447,14 @@
         "supports_response_schema": true,
         "supports_vision": true,
         "supports_xhigh_reasoning_effort": true
+    },
+    "qwen_ai_platform/deepseek-v4.1-flash-1017": {
+        "litellm_provider": "qwen_ai_platform",
+        "mode": "chat",
+        "max_input_tokens": 1000000,
+        "max_output_tokens": 393216,
+        "supports_reasoning": true,
+        "supports_function_calling": true,
+        "supports_vision": true
     }
 }
